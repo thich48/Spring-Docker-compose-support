@@ -1,6 +1,10 @@
 <h2>Spring Docker Compose support</h2>
 </br></br>
 
+<img src="captures/architecture.jpg">
+
+<h3>Arborescence du projet</h3>
+
 <img src="captures/project.jpg">
 
 <h3>Exécution du contenair hotel-service-postgres-1:</h3>
